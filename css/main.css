@@ -384,3 +384,505 @@ footer p{
 	color:#999;
 	margin-top:50px;
 }
+
+@media (max-width: 823px){
+	header{
+		height:151px;
+	}
+	header h1{
+		text-align: center;
+    	font-size: -webkit-xxx-large;
+	}
+	header h5{
+		text-align: center;
+    	font-size: large;
+	}
+	.customers h2 {
+	    font-size: xx-large;
+	    text-align: center;
+	}
+	img{
+		-webkit-transform:scale(.9);
+	}
+	.meet {
+	    position: absolute;
+	    left: 140px;
+	    top: 110px;
+	}
+	.arrow-left{
+		position: absolute;
+	    top: 100px;
+	    left: 300px;
+	}
+	.msc{
+		margin-top: 20px;
+    	margin-left: 13px;
+	}
+	.globe a img{
+		position: absolute;
+    	left: 448px;
+    	top: 89px;
+	}
+	.olc{
+	    margin-top: 216px;
+	    text-align: left;
+	    margin-left: 90px;
+	    margin-right: 140px;
+	}
+	.customers p {
+		font-size:medium;
+	}
+	.twm{
+	    margin-top: 26px;
+	    text-align: left;
+	    margin-left: 90px;
+	    margin-right: 140px;
+	}
+	.partners{
+		-webkit-transform:scale(.8);
+		margin-top: 17px;
+	}
+	.manifesto h2 {
+	    font-size: x-large;
+	    margin: 7px 0 30px -79px;
+   }
+   .manifesto p {
+	   	margin: 0 60px 0 43px;
+	}
+	.rework {
+	    height: 461px;
+	}
+	.rework h2 {
+	    font-size: x-large;
+	    margin: 44px 124px 150px 51px;
+   }
+   .crumple a img{
+		position: absolute;
+    	left: -375px;
+    	top: 19px;
+	}
+	.arrow-right{
+		position: absolute;
+	    top: 100px;
+	    left: 530px;
+	}
+	.fom{
+		margin-top: 138px;
+    	margin-left: -607px;
+	}
+	 .book a img{
+		position: absolute;
+    	left: 10px;
+    	top: 49px;
+	}
+	.quotes h3{
+		font-size: medium;
+    	margin: 35px 110px 15px 280px;
+	}
+	.quotes p{
+		margin: 0 142px 0 322px
+	}
+	.offerings h2 {
+		font-size:xx-large;
+	    margin: 30px 159px;
+	}
+}
+
+@media (max-width: 685px){
+	img{
+		-webkit-transform:scale(.8);
+	}
+	header{
+		height:63px;
+		margin-left:-66px;
+	}
+	header h1{
+		text-align: center;
+    	font-size: larger;
+	}
+	header h5{
+		text-align: center;
+    	font-size: small;
+	}
+	nav ul{
+		margin: 12px 55px;
+		padding:10px 0;
+	}
+	.products{
+		margin: 20px -33px;
+	}
+	.products a{
+		margin:0 7px;
+	}
+	.customers{
+		margin-left:-63px;
+	}
+	.customers h2 {
+	    font-size: x-large;
+	    margin: 0px 129px 242px 108px;
+	}
+	.partners{
+		-webkit-transform:scale(.7);
+		margin-top: 17px;
+	}
+	.manifesto h2 {
+	    margin: 7px 250px 50px 75px;
+	}
+	.colume {
+	    margin: 0 -50px 0 28px;
+    }
+	.manifesto p {
+	    margin: 0 110px 0 39px;
+	    font-size: 11px;
+  	}
+  	.manifesto h3 {
+	    font-size: 50px;
+	}
+	.manifesto h4 {
+	    font-size: 15px;
+	}
+	.rework {
+	    height: 521px;
+	}
+	.rework h2 {
+	    font-size: larger;
+	    margin: 44px 204px 150px 61px;
+	    line-height: 1.6em;
+	}
+	.crumple a img{
+    	left: -485px;
+	}
+	.arrow-right{
+	    left: 420px;
+	}
+	.fom{
+		margin-top: 148px;
+    	margin-left: -821px;
+    }
+    .quotes {
+	    margin: 0 78px 0 -9px;
+	}
+	.olc{
+		margin:140px;
+	}
+	.twm{
+		margin: 27px 140px;
+	}
+	.offerings h2 {
+		margin-left:0;
+	}
+	.offerings .colume {
+		margin-left:30px;
+	}
+	footer p {
+    	font-size: 9px;
+	}
+}
+
+@media (max-width: 480px){
+	nav ul
+	{
+		margin: 12px 32px;
+	}
+	nav li 
+	{
+	    margin: 0px 0px;
+	    font-size: 11px;
+	}
+	header 
+	{
+	    margin:0 -199px 0 -161px;
+	    font-size: 12px;
+	}
+	header h5 
+	{
+	    font-size: x-small;
+	}
+	.products
+	{
+		-webkit-transform:scale(.7);
+		margin: -18px -135px;
+	}
+	.customers h2 
+	{
+	    font-size: large;
+	    margin: 0px 304px 173px 86px;
+	}
+	.meet 
+	{
+	    left: 60px;
+	    top: 50px;
+	    -webkit-transform: scale(.7);
+	}
+
+	.meet .msc
+	{
+		margin-left:15px;
+	}
+
+	.arrow-left 
+	{
+	    top: 66px;
+	    left: 228px;
+	    -webkit-transform: scale(.7);
+	}
+
+	.globe 
+	{
+		-webkit-transform: scale(.7);
+	    position: absolute;
+	    left: 49px;
+	    top: 10px;
+	}
+
+	.customers p 
+	{
+	  	font-size: smaller;
+	    margin-left: 100px;
+	    margin-right: 316px;
+	    margin-bottom: 14px;
+	}
+
+	.partners 
+	{
+        margin-left: -103px;
+	    -webkit-transform: scale(.5);
+	}
+
+	.customers 
+	{
+		margin-bottom: 26px;
+	}
+
+	.manifesto h2 
+	{
+		font-size: 18px;
+	    line-height: 1.3em;
+	    letter-spacing: -1px;
+	    margin:7px 414px 33px 30px;
+	}
+
+	.manifesto h3 
+	{
+		font-size: 35px;
+	}
+
+	.manifesto h4 
+	{
+	    font-size: 11px;
+	}
+
+	.manifesto p 
+	{
+	    margin: 0 192px 0 31px;
+	    font-size: 9px;
+	}
+
+	.colume 
+	{
+	    margin: 0 -150px 0 8px;
+	}
+
+	.manifesto
+	{
+		margin-bottom: 40px;
+	}
+
+	.rework h2 
+	{
+	    font-size: 16px;
+	    margin:30px 380px 150px 33px;
+	}
+
+	.book a img 
+	{
+	    left: -10px;
+	    top: -20px;
+	    -webkit-transform: scale(.5);
+	}
+
+	.crumple 
+	{
+	    right: 145px;
+	    -webkit-transform: scale(.7);
+	}
+
+	.arrow-right 
+	{
+	    left: 270px;
+	}
+
+	.quotes h3 
+	{
+	    font-size: 12px;
+	    margin: 10px 309px 15px 221px;
+	}
+
+	.quotes p 
+	{
+	    margin: 0 142px 0 42px;
+	    font-size:10px;
+	}
+
+	.rework 
+	{
+	    height: 418px;
+	}
+
+	.offerings h2 
+	{
+	    font-size: 18px;
+	    margin:30px 309px 30px -37px;
+	}
+
+	.offerings .colume h3, .offerings .colume-end h3 
+	{
+	    font-size: 12px;
+	    margin:0;
+	}
+
+	.offerings .colume a, .offerings .colume-end a 
+	{
+	    font-size: 15px;
+	}
+	.offerings .colume small, .offerings .colume-end small {
+	    font-size: 8px;
+	}
+	.offerings .colume {
+		margin:0 -90px 0 -25px;
+	}
+	.offerings ul{
+		line-height:1.2em;
+	}
+	footer ul{
+		line-height:1.2em;
+	}
+	footer h3 {
+	    font-size: 11px;
+	}
+	footer li {
+	    font-size: 10px;
+	}
+	footer p {
+	    margin:25px;
+	}
+}
+
+@media (max-width: 375px){
+	nav li {
+	    font-size: 8px;
+	}
+	header {
+	    margin: 0 -199px 0 -222px;
+	    font-size: 9px;
+	}
+	header img {
+	    -webkit-transform: scale(.7);
+	}
+	header h1{
+		margin-top: 0px;
+	}
+	header h5 {
+	    font-size: 9px;
+	}
+	.products {
+	    -webkit-transform: scale(.6);
+	    margin: -54px -199px;
+	}
+	hr {
+	    height: 12px;
+	    -webkit-transform: scale(.7);
+	}
+	.customers h2 {
+	    font-size: 15px;
+	    margin: 0px 398px 173px 78px;
+	}
+	.globe {
+	    left: -31px;
+	}
+	.customers p {
+	    font-size: 12px;
+	    margin-right: 416px;
+	}
+	.partners {
+	    margin-left: -149px;
+	    -webkit-transform: scale(.4);
+	}
+	.customers {
+	    margin-bottom: 5px;
+	}
+	.manifesto {
+	    margin-top: 14px;
+	    margin-bottom: 31px;
+	}
+	.manifesto h2 {
+	    font-size: 15px;
+	    margin: 7px 485px 18px 10px;
+	}
+	.colume {
+	    margin: 0 -204px 0 0px;
+	}
+	.manifesto h3 {
+	    font-size: 25px;
+	}
+	.manifesto h4 {
+	    font-size: 10px;
+	}
+	.manifesto p {
+	    margin: 0 226px 0 27px;
+	    font-size: 8px;
+	}
+	.rework h2 {
+	    font-size: 15px;
+	    margin: 30px 464px 150px 12px;
+	}
+	.book a img {
+	    left: -64px;
+	    top: -53px;
+	    -webkit-transform: scale(.4);
+	}
+	.crumple {
+	    right: 245px;
+	}
+	.arrow-right {
+	    left: 190px;
+	}
+	.quotes h3 {
+	    font-size: 11px;
+	    margin: 5px 409px 15px 150px;
+	}
+	.quotes p {
+	    margin: 0 142px 0 -114px;
+	    font-size: 8px;
+	}
+	.rework {
+	    height: 379px;
+	}
+	.offerings h2 {
+	   	margin-left: -133px;
+	}
+	.offerings .colume {
+	    margin: 0 -121px 0 -55px;
+	}
+	.offerings .colume h3, .offerings .colume-end h3 {
+	    font-size: 10px;
+	}
+	.offerings .colume a, .offerings .colume-end a {
+	    font-size: 12px;
+	}
+	.offerings .colume small, .offerings .colume-end small {
+	    font-size: 7px;
+	}
+	.offerings ul {
+	    line-height: 1em;
+	}
+	footer h3 {
+	    font-size: 10px;
+	}
+	footer li {
+	    font-size: 9px;
+	}
+	footer ul {
+	    line-height: 1em;
+	}
+}
